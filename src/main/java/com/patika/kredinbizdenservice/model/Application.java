@@ -4,6 +4,7 @@ package com.patika.kredinbizdenservice.model;
 import com.patika.kredinbizdenservice.enums.ApplicationStatus;
 
 import java.time.LocalDateTime;
+import java.util.List;
 
 public class Application {
 

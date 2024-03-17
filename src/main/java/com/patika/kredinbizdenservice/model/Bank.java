@@ -16,6 +16,10 @@ public class Bank {
         this.name = name;
     }
 
+    public List<CreditCard> getCreditCards() {
+        return creditCards;
+    }
+
     public List<Loan> getLoanList() {
         return loanList;
     }
